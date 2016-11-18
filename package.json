@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/hobbyling/nodejs/issues"
   },
-  "homepage": "https://github.com/hobbyling/nodejs#readme"
+  "homepage": "https://github.com/hobbyling/nodejs#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "logfmt": "^1.2.0"
+  }
 }

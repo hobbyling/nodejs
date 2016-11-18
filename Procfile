@@ -1,1 +1,1 @@
-web: node server-all.js
+web: node heroku -deploy-all.js
