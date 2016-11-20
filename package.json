@@ -1,6 +1,6 @@
 {
   "name": "package",
-  "version": "1.0.0",
+  "version": "7.1.0",
   "description": "this is a nodejs demo progect",
   "main": "all.js",
   "scripts": {
