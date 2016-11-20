@@ -5,5 +5,4 @@ http.createServer(function(request, response) {
   response.write("Hello World");
   response.end();
 }).listen(3000);
-console.log("Hello World");
-
+console.log("Server已開啟port: 3000.");
