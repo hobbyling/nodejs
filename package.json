@@ -23,6 +23,7 @@
   "homepage": "https://github.com/hobbyling/nodejs#readme",
   "dependencies": {
     "express": "^4.14.0",
-    "logfmt": "^1.2.0"
+    "logfmt": "^1.2.0",
+    "nodemon": "^1.11.0"
   }
 }
